@@ -2716,20 +2716,20 @@ sudo nano /etc/logrotate.d/app
 
 | Feature | GitHub Actions | Jenkins |
 |---------|---------------|---------|
-| **Setup Complexity** | ⭐⭐⭐⭐⭐ Very Easy | ⭐⭐⭐ Moderate |
-| **Maintenance** | ⭐⭐⭐⭐⭐ Zero (Managed) | ⭐⭐ High (Self-managed) |
-| **Cost (Small Team)** | ⭐⭐⭐⭐ Free tier generous | ⭐⭐⭐⭐⭐ Free (self-hosted) |
-| **Integration** | ⭐⭐⭐⭐⭐ Native GitHub | ⭐⭐⭐⭐ Extensive plugins |
-| **Learning Curve** | ⭐⭐⭐⭐ Easy (YAML) | ⭐⭐⭐ Moderate (Groovy) |
-| **Scalability** | ⭐⭐⭐⭐ Auto-scaling | ⭐⭐⭐⭐⭐ Highly customizable |
-| **Plugin Ecosystem** | ⭐⭐⭐ Growing | ⭐⭐⭐⭐⭐ Extensive |
-| **Enterprise Features** | ⭐⭐⭐ Good | ⭐⭐⭐⭐⭐ Excellent |
-| **Build Speed** | ⭐⭐⭐⭐ Fast | ⭐⭐⭐⭐ Fast (optimizable) |
-| **Security** | ⭐⭐⭐⭐⭐ Managed | ⭐⭐⭐⭐ Self-managed |
+| **Setup Complexity** | Very Easy (5/5) | Moderate (3/5) |
+| **Maintenance** | Zero - Managed (5/5) | High - Self-managed (2/5) |
+| **Cost (Small Team)** | Free tier generous (4/5) | Free - self-hosted (5/5) |
+| **Integration** | Native GitHub (5/5) | Extensive plugins (4/5) |
+| **Learning Curve** | Easy - YAML (4/5) | Moderate - Groovy (3/5) |
+| **Scalability** | Auto-scaling (4/5) | Highly customizable (5/5) |
+| **Plugin Ecosystem** | Growing (3/5) | Extensive (5/5) |
+| **Enterprise Features** | Good (3/5) | Excellent (5/5) |
+| **Build Speed** | Fast (4/5) | Fast - optimizable (4/5) |
+| **Security** | Managed (5/5) | Self-managed (4/5) |
 
 ### When to Use GitHub Actions
 
-✅ **Perfect For:**
+**Perfect For:**
 - Startups and small teams
 - Projects hosted on GitHub
 - Quick setup requirements
@@ -2756,7 +2756,7 @@ sudo nano /etc/logrotate.d/app
 
 ### When to Use Jenkins
 
-✅ **Perfect For:**
+**Perfect For:**
 - Enterprise organizations
 - Complex CI/CD pipelines
 - Multi-platform deployments
